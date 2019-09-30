@@ -1,9 +1,5 @@
-# Symp+Rack Final Project Report
+# Symp+Rack 
 
-## Ahmed Algogandi, Michael S. Schindeldecker, Sarah Seitz, Uma Elangovan
-
-Under the guidance of **Professor Chi-Lung Chiang**
-Course Name: **SEIS 610- 02 Software Engineering**
 
 ## 1. Introduction 
 
